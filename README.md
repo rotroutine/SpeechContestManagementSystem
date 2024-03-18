@@ -1,2 +1,2 @@
-# undersize_item
-Store small projects for study.
+# SpeechContestManagementSystem
+In C++ learning to write a small demo, speech flow management
